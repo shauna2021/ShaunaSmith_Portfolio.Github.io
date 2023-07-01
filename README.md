@@ -1,13 +1,16 @@
-# ShaunaSmith_Portfolio.Github.io
-## Project Portfolio
+# ShaunaSmith_Portfolio.Github.io 
+![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/697aaa40-3c46-4456-8fa7-c083ea6a2e84)  
+### Predictions Galore!
+
+## My Project Portfolio
 
 ### Introduction
 
-![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/60d69b72-572f-42a0-8f04-57181261dcee)
+![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/60d69b72-572f-42a0-8f04-57181261dcee) "Hello!"
 
 
 
-I am a current student at Bellevue University and a hard-working mother of 2. I have an innate passion for learning and discovery. I implore many methods to achieve duplicity of evolving goals and communication. My biggest achievements revolve around my inquisitive nature and imaginative personality. I consistently envoke new explorations and discover aspiring perspectives that I am always ready to share. I love life, and learning how to best live it! Stay tuned, and get to know me as I share how to look at life in revealing ways.
+I am a hard-working mother of 2 and I have an innate passion for learning and discovery. I explore many methods to achieve a multitude of evolving goals and shared communications. My biggest achievements stem from my inquisitive nature and imaginative personality. I consistently envoke new explorations and discover aspiring perspectives that I am always ready to share. I love life, and learning how to best live it! Stay tuned, and get to know me as I share how to look at life in often unique and revealing ways.
 
 
 
@@ -29,7 +32,7 @@ ARP-Scores is a project designed to demonstrate the effectiveness of implementin
 
 [### Project 3 "Movie Recommender"](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/blob/main/SmithSDSC630Week10.ipynb)
 
-The Movie Recommender explores an open-source dataset with ratings and genres. This was used to create a correlative recommend system, to suggest similarly rated and genre movies to a user's selected movie preference input. 
+The Movie Recommender explores an open-source dataset with ratings and genres. This was used to create a correlative recommender system, to suggest similarly rated and genre movies to a user's selected movie preference input. 
 
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/14acd827-aa40-49ef-b7d8-fdd847a5c330)
 
