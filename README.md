@@ -2,7 +2,7 @@
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/697aaa40-3c46-4456-8fa7-c083ea6a2e84)  
 ### Predictions Galore!
 
-## My Project Portfolio
+## <u>My Project Portfolio</u>
 
 ### Introduction:
 
