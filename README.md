@@ -46,7 +46,7 @@ Time Series Retail offers a viewing window for correlative retail sales partitio
 
 
 
-[##### Project 5 "Covid Fear Elemental"](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/blob/main/SmithDSC530Project.ipynb)
+[##### Project 5 "Covid Fear Elemental"](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/blob/main/SmithDSC530Project%20(1).ipynb)
 
 The Covid Fear Elemental explores the G.A.S.(General Adaptation Syndrome) as a known effect on the human body. It infers the effects as measurements of fear on the human body and then predicts subsequent physiological & behavioral outcomes derived from that measurement. By comparing environments from within an increased state and a presumed absent state via the covid time windows. The differences can become a basis for demonstrating potential inferences based on the expected causes of extreme cases of death as related to a plausible fear influence.
 
