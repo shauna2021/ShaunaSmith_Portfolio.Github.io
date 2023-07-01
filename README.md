@@ -4,7 +4,7 @@
 
 ## My Project Portfolio
 
-### Introduction
+### Introduction:
 
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/60d69b72-572f-42a0-8f04-57181261dcee) "Hello!"
 
@@ -12,7 +12,7 @@
 
 I am a hard-working mother of 2 and I have an innate passion for learning and discovery. I explore many methods to achieve a multitude of evolving goals and shared communications. My biggest achievements stem from my inquisitive nature and imaginative personality. I consistently envoke new explorations and discover aspiring perspectives that I am always ready to share. I love life, and learning how to best live it! Stay tuned, and get to know me as I share how to look at life in often unique and revealing ways.
 
-
+>"Just click on each desired project below to access the .ipynb code"
 
 [# Project 1 "FERB"](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/blob/main/Assignment4.1_P1_M3_SmithShauna.ipynb)
 
