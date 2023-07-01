@@ -61,7 +61,13 @@ As known effects on the human body that are related to fear, we can potentially 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### PRE-COVID (2018-2019)
+![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/02c73e76-236c-4ca9-8ca0-cd290b2076f9)
+
+
+
+### COVID MIDST (2020-2021)
+![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/6f8dd085-f1f2-43ec-a556-237cdd99f9af)
 
 
 ## Lessons Learned
