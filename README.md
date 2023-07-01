@@ -6,7 +6,7 @@
 
 ### Introduction:
 
-![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/60d69b72-572f-42a0-8f04-57181261dcee) "Hello!"
+![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/60d69b72-572f-42a0-8f04-57181261dcee) "Welcome & Hello!"
 
 
 
