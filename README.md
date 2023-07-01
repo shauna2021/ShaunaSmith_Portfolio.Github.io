@@ -30,7 +30,7 @@ ARP-Scores is a project designed to demonstrate the effectiveness of implementin
 
 
 
-[### Project 3 "Movie Recommender"](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/blob/main/SmithSDSC630Week10.ipynb)
+[### Project 3 "Movie Recommender"](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/blob/main/SmithSDSC630Week10%20(1).ipynb)
 
 The Movie Recommender explores an open-source dataset with ratings and genres. This was used to create a correlative recommender system, to suggest similarly rated and genre movies to a user's selected movie preference input. 
 
