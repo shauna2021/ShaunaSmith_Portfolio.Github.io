@@ -4,13 +4,15 @@
 
 ## <u>My Project Portfolio</u>
 
-### Introduction:
+### Introduction & About Me:
 
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/60d69b72-572f-42a0-8f04-57181261dcee) "Welcome & Hello!"
 
 
 
-I am a hard-working mother of 2 and I have an innate passion for learning and discovery. I explore many methods to achieve a multitude of evolving goals and shared communications. My biggest achievements stem from my inquisitive nature and imaginative personality. I consistently envoke new explorations and discover aspiring perspectives that I am always ready to share. I love life, and learning how to best live it! Stay tuned, and get to know me as I share how to look at life in often unique and revealing ways.
+I am a hard-working mother of 2 and I have an innate passion for learning and discovery. I explore many methods to achieve a multitude of evolving goals and shared communication. My biggest achievements stem from my inquisitive nature and imaginative personality which I consistently envoke for new exploration and discovery. I strive for aspiring for honest perspectives that I am always ready to share. I love life, and learning how to best live it! Stay tuned, and get to know me as I share how to look at life in often unique but revealing ways.
+
+### My Work/Projects:
 
 >"Just click on each desired project below to access the .ipynb code"
 
@@ -59,6 +61,10 @@ The Data Dream Jobs is a model developed to highlight student motivations for ca
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/293b7dbf-47d5-403d-acbe-257dfc026208)
 
 
+
+### Contact Info:
+LinkedIn: www.linkedin.com/in/shaunasmith77
+Email: ShaunaSmith77@Outlook.com
 
 
 ### "More to come......." 
