@@ -52,8 +52,16 @@ The Covid Fear Elemental explores the G.A.S.(General Adaptation Syndrome) as a k
 
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/d0076c54-9c40-40c5-82d6-7c90c5e0b403)
 
+[#### Project 6 "Data Dream Jobs"](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/blob/main/Discovery_Assignments5.1_7.1_P2_SmithShauna.ipynb)
+
+The Data Dream Jobs is a model developed to highlight student motivations for career choice advocacy within the data field & respective University programs. This is a predictive classification model that aims to predict the classification of Data Job types by using selective features derived from the motivational aspects that persuade student choice for entering and completing University programs. 
+
+![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/293b7dbf-47d5-403d-acbe-257dfc026208)
+
+
 
 
 #### "More to come......." ####
+
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/1f2d2e21-3143-4246-858b-4909a68df70b)
 
