@@ -73,7 +73,7 @@ The Data Dream Jobs is a model developed to highlight student motivations for ca
 
 
 ### My Contact Info:
-![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/6002daf2-a88d-4854-9faf-6d3e35769410) [LinkedIn: www.linkedin.com/in/shaunasmith77](https://www.linkedin.com/in/shaunasmith77)
+![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/6002daf2-a88d-4854-9faf-6d3e35769410) LinkedIn: [www.linkedin.com/in/shaunasmith77](https://www.linkedin.com/in/shaunasmith77)
 
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/061fdbea-4344-4f64-b990-dc05b75e4825) Email: ShaunaSmith77@Outlook.com
 
