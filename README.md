@@ -1,18 +1,38 @@
 # Shauna Smith Portfolio
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/697aaa40-3c46-4456-8fa7-c083ea6a2e84)  
-### Predictions Galore!
 
+# <u>My Project Portfolio of Predictions Galore!</u>
+## But First...Introductions & About Me:
 
-
-## <u>My Project Portfolio</u>
-
-### Introduction & About Me:
-
-![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/60d69b72-572f-42a0-8f04-57181261dcee) "Welcome & Hello!"
-
-
+![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/60d69b72-572f-42a0-8f04-57181261dcee) 
 
 I am a hard-working mother of 2 and I have an innate passion for learning and discovery. I explore many methods to achieve a multitude of evolving goals and shared communication. My biggest achievements stem from my inquisitive nature and imaginative personality which I consistently envoke for new exploration and discovery. I strive for aspiring for honest perspectives that I am always ready to share. I love life, and learning how to best live it! Stay tuned, and get to know me as I share how to look at life in often unique but revealing ways.
+
+<h2> &nbsp;Some Tools I Have Used </h2>
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"
+width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R"
+width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"
+width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"
+width="45" height="45"/>
+</p>
+
+### My Contact Info:
+![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/6002daf2-a88d-4854-9faf-6d3e35769410) LinkedIn: [www.linkedin.com/in/shaunasmith77](https://www.linkedin.com/in/shaunasmith77)
+
+![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/061fdbea-4344-4f64-b990-dc05b75e4825) Email: ShaunaSmith77@Outlook.com
+
 
 ### My Work/Projects:
 
@@ -65,16 +85,18 @@ The Data Dream Jobs is a model developed to highlight student motivations for ca
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/293b7dbf-47d5-403d-acbe-257dfc026208)
 
 
-
+<p align="center">
+  
 ### "More to come......." 
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/b4b1ffb5-bd25-40af-8748-648f2a93ed05)
 
+<img height="120" src="https://media.giphy.com/media/cKbLJzS0cOTklEmzto/giphy.gif" />
+</a>
 
+### "Goodbye for Now!"
 
+</p>
 
-### My Contact Info:
-![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/6002daf2-a88d-4854-9faf-6d3e35769410) LinkedIn: [www.linkedin.com/in/shaunasmith77](https://www.linkedin.com/in/shaunasmith77)
-
-![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/061fdbea-4344-4f64-b990-dc05b75e4825) Email: ShaunaSmith77@Outlook.com
-
-
+<p align="center">
+  <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572"/>
+</p>
