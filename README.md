@@ -91,7 +91,7 @@ The Data Dream Jobs is a model developed to highlight student motivations for ca
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/b4b1ffb5-bd25-40af-8748-648f2a93ed05)
 
 <img height="120" src="https://media.giphy.com/media/cKbLJzS0cOTklEmzto/giphy.gif" />
-</a>
+
 
 ### "Goodbye for Now!"
 
