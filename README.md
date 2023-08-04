@@ -85,6 +85,13 @@ The Data Dream Jobs is a model developed to highlight student motivations for ca
 ![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/293b7dbf-47d5-403d-acbe-257dfc026208)
 
 
+
+[# Project 7 "Other Fun Random Projects"](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/tree/main/OtherFunProjects_Folder)
+
+The "Other Fun Random Projects Folder" houses a slew of different projects during my Data Science program. However, although these example assignments were not intended as a project within itself, they did gain me a wonderful use case experience in practice as an applicable skill set for future project endeavors. Feel free to peruse the plethora of topics and achievements at your leisure.
+
+![image](https://github.com/shauna2021/ShaunaSmith_Portfolio.Github.io/assets/89786577/fc8d64f7-38ad-4104-a16a-dfc307a6874b)
+
   
 ### "More to come......." 
 
