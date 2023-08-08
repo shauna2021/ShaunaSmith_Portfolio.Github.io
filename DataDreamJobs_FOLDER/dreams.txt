@@ -1,1 +1,1 @@
-
+With the data dream jobs project, the goal was to use motivational factors from a specific and achievable data-related jobs dataset. The feature selections offered preferences for the student's future wants. In practice, it would facilitate graduation retention for Universities by offering the proverbial carrot as motivation while in their chosen program.
