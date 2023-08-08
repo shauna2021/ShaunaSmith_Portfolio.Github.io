@@ -1,1 +1,7 @@
+FERB(Friendly Educational Repository Bank of pets) was designed as a selection step that predicts the best fit for a 'furever pet'. 
 
+The features used are dedicated to the breed's intelligence scores from training repetitions required in a specific learned behavior. 
+
+This given training score by breeds was a metric that when combined with the commitment expectations from the owner
+
+serve to better accommodate for an adoption success story.
